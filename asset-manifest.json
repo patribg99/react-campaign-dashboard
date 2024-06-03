@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-campaign-dashboard/static/css/main.08ca7eda.css",
+    "main.js": "/react-campaign-dashboard/static/js/main.7f5a9f8b.js",
+    "index.html": "/react-campaign-dashboard/index.html",
+    "main.08ca7eda.css.map": "/react-campaign-dashboard/static/css/main.08ca7eda.css.map",
+    "main.7f5a9f8b.js.map": "/react-campaign-dashboard/static/js/main.7f5a9f8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08ca7eda.css",
+    "static/js/main.7f5a9f8b.js"
+  ]
+}
